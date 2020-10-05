@@ -1,5 +1,6 @@
 # kickstarter-project
 The second project from our Data Science Bootcamp deals with crowdfunding by analyzing the data set of Kickstarter.
+https://www.kaggle.com/kemical/kickstarter-projects
 
 Goal: How to raise money with crowdfunding?
 
