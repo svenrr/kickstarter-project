@@ -1,11 +1,11 @@
-# kickstarter-project
+# Kickstarter Project 
 The second project from our Data Science Bootcamp deals with crowdfunding by analyzing the data set of Kickstarter.
 
-The data set contains about 200,000 projects from 22 different countries and from the period from 2009 to 2019
+The data set contains about 200,000 projects from 22 different countries and from the period from 2009 to 2019.
 
-https://www.kaggle.com/kemical/kickstarter-projects
+Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 
-Goal: How to raise money with crowdfunding?
+**Goal:** How to raise money with crowdfunding?
 * Recommendations and Insights for crowdfunding projects 
 * Predicting the success of a project → Chances
 
