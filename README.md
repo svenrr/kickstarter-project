@@ -4,17 +4,19 @@ The second project from our Data Science Bootcamp deals with crowdfunding by ana
 The data set contains about 200,000 projects from 22 different countries and from the period from 2009 to 2019.
 
 Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects  
-           
-        
+
+
 **Goal:** How to raise money with crowdfunding?
 * Recommendations and Insights for crowdfunding projects 
 * Predicting the success of a project → Chances  
 
-**Business questions**
+
+**Business questions:**
 * What does the average project on Kickstarter looks like?
 * What can you expect with a specific project?
 * Which factors are important for success? 
 * Which machine learning model is the best to predict the success?   
+
 
 
 **Recommendations:** 
@@ -22,6 +24,7 @@ Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 * Set a realistic goal - not too high (median goal of succesful projects was 3,500 USD) 
 * Be aware of the different chances of success per category 
 * Try to get featured (hints: https://www.kickstarter.com/blog/how-to-get-featured-on-kickstarter?lang=en)   
+
 
 **Model results:** 
 
@@ -39,10 +42,12 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 * For this we are using the area under curve for precision-recall   
 
 
+
 ### In this repository you can find the following files: 
 * Jupyter Notebook(s) 
 * Presentation 
 * Dataset(s)  
+
 
 ### Requierments
 * Matplotlib
@@ -51,6 +56,7 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 * Pandas
 * Numpy
 * Seaborn  
+
 
 ### Steps 
 1. Imports 
