@@ -5,6 +5,8 @@ The data set contains about 200,000 projects from 22 different countries and fro
 
 Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 
+
+
 **Goal:** How to raise money with crowdfunding?
 * Recommendations and Insights for crowdfunding projects 
 * Predicting the success of a project → Chances
