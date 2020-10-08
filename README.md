@@ -11,6 +11,7 @@ Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 * Recommendations and Insights for crowdfunding projects 
 * Predicting the success of a project → Chances
 
+---
 
 **Business questions:**
 * What does the average project on Kickstarter looks like?
@@ -18,7 +19,7 @@ Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 * Which factors are important for success? 
 * Which machine learning model is the best to predict the success?   
 
-
+---
 
 **Recommendations:** 
 * Don’t expect too much → just 25% of the projects got more than 7,000 USD
@@ -26,6 +27,7 @@ Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 * Be aware of the different chances of success per category 
 * Try to get featured (hints: https://www.kickstarter.com/blog/how-to-get-featured-on-kickstarter?lang=en)   
 
+---
 
 **Model results:** 
 
@@ -42,13 +44,14 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 * High recall is easily achieved, so we also need a metric to balance it out
 * For this we are using the area under curve for precision-recall   
 
-
+---
 
 ### In this repository you can find the following files: 
 * Jupyter Notebook(s) 
 * Presentation 
 * Dataset(s)  
 
+---
 
 ### Requierments
 * Matplotlib
@@ -58,6 +61,7 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 * Numpy
 * Seaborn  
 
+---
 
 ### Steps 
 1. Imports 
