@@ -53,10 +53,9 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 
 ---
 
-### Requierments
+### Requirements
 * Matplotlib
 * Sklearn 
-* Scipy
 * Pandas
 * Numpy
 * Seaborn  
