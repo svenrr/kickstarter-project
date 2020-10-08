@@ -8,8 +8,8 @@ Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 <br />   
 **Goal:** How to raise money with crowdfunding?
 * Recommendations and Insights for crowdfunding projects 
-* Predicting the success of a project → Chances\  
-\
+* Predicting the success of a project → Chances
+
 
 **Business questions:**
 * What does the average project on Kickstarter looks like?
