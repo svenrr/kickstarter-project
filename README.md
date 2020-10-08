@@ -5,6 +5,9 @@ The data set contains about 200,000 projects from 22 different countries and fro
 
 Kaggle Dataset(s): https://www.kaggle.com/kemical/kickstarter-projects
 
+This project was done with a modified dataset, which can not be uploaded here due to its size.
+The file "Kickstarter_Datafull" contains all the used data, after the cleaning of the original files.
+
 ---
 
 **Goal:** How to raise money with crowdfunding?
