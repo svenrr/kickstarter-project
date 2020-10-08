@@ -43,7 +43,7 @@ We tried the following models: KNN, Decision Tree, Logistic Regression, RandomFo
 * We try to minimize False-Negatives (high recall)
 * High recall is easily achieved, so we also need a metric to balance it out
 * For this we are using the area under curve for precision-recall   
-
+* Problem: We don't know which projects have done how much marketing for their campaign. But this could be a very important success factor.
 ---
 
 ### In this repository you can find the following files: 
